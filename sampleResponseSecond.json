@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "sport",
+            "title": "Is Dhoni done? Indian great contemplates future after CSK pull off miracle to win IPL",
+            "description": "Indian cricket superstar M.S. Dhoni said he will look to return for the next IPL season after he led Chennai Super Kings to a record-equalling fifth title over Gujarat Titans in what many believed to be his last match.",
+            "url": "https://www.news24.com/sport/cricket/ipl/is-dhoni-done-indian-great-contemplates-future-after-csk-pull-off-miracle-to-win-ipl-20230530",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/616/a509791fca3b4bbc9c8ba2814e189a12.jpg",
+            "publishedAt": "2023-05-30T07:05:47+00:00",
+            "content": "<ul><li>Monday's IPL final went down to the wire, with Ravindra Jadeja hitting 10 runs in the final two balls to win it for CSK.</li><li>The match had been reduced because of rain. </li><li>CSK star … [+3497 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Free cricket streaming helps Ambani's JioCinema break world record",
+            "description": "India's JioCinema broke the global record for the most concurrent views to a live streamed event on Monday.",
+            "url": "https://techcrunch.com/2023/05/29/jiocinema-concurrent-global-record/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1258268912.jpg?resize=1200,800",
+            "publishedAt": "2023-05-29T15:21:03Z",
+            "content": "India’s JioCinema broke the global record for the most concurrent views to a live streamed event on Monday, beating a milestone set by Disney’s Hotstar years ago, as tycoon Mukesh Ambani spares no ex… [+661 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
